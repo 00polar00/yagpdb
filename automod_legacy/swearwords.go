@@ -29,9 +29,9 @@ var BuiltinSwearWords = map[string]bool{
 	"fag":         true,
 	"faggot":      true,
 	"feck":        true,
-	"fellate":     true,
-	"fellatio":    true,
-	"felching":    true,
+	
+	
+	
 	"fuck":        true,
 	"fucks":       true,
 	"fudgepacker": true,
@@ -40,23 +40,23 @@ var BuiltinSwearWords = map[string]bool{
 	"jerk":        true,
 	"jizz":        true,
 	"knobend":     true,
-	"labia":       true,
+	
 	"masturbate":  true,
 	"muff":        true,
 	"nigger":      true,
 	"nigga":       true,
 	"penis":       true,
 	"piss":        true,
-	"poop":        true,
+	
 	"pube":        true,
 	"pussy":       true,
-	"scrotum":     true,
+	
 	"sex":         true,
 	"shit":        true,
 	"sh1t":        true,
 	"slut":        true,
 	"smegma":      true,
-	"spunk":       true,
+	
 	"tit":         true,
 	"tranny":      true,
 	"trannies":    true,
@@ -67,7 +67,7 @@ var BuiltinSwearWords = map[string]bool{
 	"wank":        true,
 	"whore":       true,
 	"tits":        true,
-	"titty":       true,
+	
 	"asshole":     true,
 	"fvck":        true,
 	"asshat":      true,
