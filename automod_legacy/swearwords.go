@@ -12,14 +12,14 @@ var BuiltinSwearWords = map[string]bool{
 	"bitch":       true,
 	"biatch":      true,
 	"blowjob":     true,
-	"bollock":     true,
-	"bollok":      true,
+	
+	
 	"boner":       true,
-	"boob":        true,
-	"boobs":       true,
+	
+	
 	"buttplug":    true,
-	"clitoris":    true,
-	"cock":        true,
+	
+	
 	"cum":         true,
 	"cunt":        true,
 	"dick":        true,
@@ -29,9 +29,7 @@ var BuiltinSwearWords = map[string]bool{
 	"fag":         true,
 	"faggot":      true,
 	"feck":        true,
-	"fellate":     true,
-	"fellatio":    true,
-	"felching":    true,
+	
 	"fuck":        true,
 	"fucks":       true,
 	"fudgepacker": true,
